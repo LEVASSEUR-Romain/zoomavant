@@ -1,5 +1,5 @@
 # zoomavant
-Permet de faciliter les zooms au scroll
+Permet de faciliter la navigation d'une image au scroll
 
 
 Il suffit juste du fichier Scroll 
